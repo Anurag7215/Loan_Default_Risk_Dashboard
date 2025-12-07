@@ -6,7 +6,7 @@
 This project focuses on analyzing Loan Default Risk using summary-level financial data.
 The dataset contains aggregated metrics such as:
 
-**Average Credit Score**
+- Average Credit Score
 
 Average Loan Amount
 
