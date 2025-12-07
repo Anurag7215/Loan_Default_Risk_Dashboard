@@ -60,7 +60,7 @@ The goal of this project is to understand borrower behavior, identify credit ris
 
 - Linked interest levels to credit quality
   
-###🔍 Key Insights
+##🔍 Key Insights
 
 - Borrowers have low-to-moderate credit scores, signaling increased default risk.
 
