@@ -47,7 +47,7 @@ The goal of this project is to understand borrower behavior, identify credit ris
 
 - Analyzed funding amount distribution
 
-I- Dentified high-value loan segments
+- Dentified high-value loan segments
 
 3️⃣ Risk Ratio Assessment
 
@@ -60,3 +60,15 @@ I- Dentified high-value loan segments
 - Evaluated the average interest rate charged
 
 - Linked interest levels to credit quality
+  
+###🔍 Key Insights
+
+- Borrowers have low-to-moderate credit scores, signaling increased default risk.
+
+- Average loan amount is relatively high, increasing financial exposure.
+
+- The DTI ratio indicates heavy debt burden among applicants.
+
+- High interest rates reflect the lender’s risk-reward strategy.
+
+**These insights support underwriting teams and risk analysts in making informed lending decisions.**
