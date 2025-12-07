@@ -35,3 +35,28 @@ The goal of this project is to understand borrower behavior, identify credit ris
 - Extracted key performance indicators (KPIs)
 - Reformatted summary tables into usable structures for analysis
 - Prepared metrics for visualization and modeling
+
+## 📊 Analysis Performed
+1️⃣ Credit Score Evaluation
+
+- Computed the average credit score of the dataset
+
+- Compared credit score ranges to assess borrower risk
+
+2️⃣ Loan Amount Insight
+
+Analyzed funding amount distribution
+
+Identified high-value loan segments
+
+3️⃣ Risk Ratio Assessment
+
+Reviewed DTI (Debt-to-Income) ratio as a stress indicator
+
+Higher DTI suggests increased default probability
+
+4️⃣ Interest Rate Review
+
+Evaluated the average interest rate charged
+
+Linked interest levels to credit quality
