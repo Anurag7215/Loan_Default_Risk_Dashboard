@@ -34,7 +34,6 @@ The goal of this project is to understand borrower behavior, identify credit ris
 - Handled missing values
 - Extracted key performance indicators (KPIs)
 - Reformatted summary tables into usable structures for analysis
-- Prepared metrics for visualization and modeling
 
 ## 📊 Analysis Performed
 1️⃣ Credit Score Evaluation
