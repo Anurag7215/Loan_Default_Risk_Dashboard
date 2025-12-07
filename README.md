@@ -28,7 +28,7 @@ The goal of this project is to understand borrower behavior, identify credit ris
   
 ## 🔧 Data Cleaning & Transformation
 
-@@Performed key operations to make the dataset analysis-ready:@@
+**Performed key operations to make the dataset analysis-ready:**
 
 - Removed unnecessary or empty columns
 - Handled missing values
