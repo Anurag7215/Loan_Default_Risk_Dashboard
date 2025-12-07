@@ -26,7 +26,7 @@ The goal of this project is to understand borrower behavior, identify credit ris
 - Support lending decisions by highlighting which loan purposes and borrower segments carry higher risk.
 - Enable interactive exploration with slicers, allowing managers to filter and analyze specific borrower groups.
 
-  ## Dataset
+## Dataset
   Dataset Link: [Loan_Deafult](https://www.kaggle.com/datasets/nikhil1e9/loan-default)
   
 ## 🔧 Data Cleaning & Transformation
