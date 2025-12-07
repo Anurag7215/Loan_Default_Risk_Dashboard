@@ -19,7 +19,7 @@ The dataset contains aggregated metrics such as:
 The goal of this project is to understand borrower behavior, identify credit risk patterns, and generate meaningful insights that support financial decision-making.
 
 ## Objective of the Dashboard
-The main objective of the dashboard is to:
+**The main objective of the dashboard is to:**
 - Measure overall loan portfolio health by tracking total loans, defaults, and average borrower metrics.
 - Identify risk factors that influence defaults, such as credit score, DTI ratio, and income-loan balance.
 - Compare borrower profiles (education, age, employment, marital status) to detect patterns in repayment behavior.
