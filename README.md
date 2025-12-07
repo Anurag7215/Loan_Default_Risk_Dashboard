@@ -26,12 +26,12 @@ The main objective of the dashboard is to:
 - Support lending decisions by highlighting which loan purposes and borrower segments carry higher risk.
 - Enable interactive exploration with slicers, allowing managers to filter and analyze specific borrower groups.
   
-🔧 Data Cleaning & Transformation
+## 🔧 Data Cleaning & Transformation
 
 Performed key operations to make the dataset analysis-ready:
 
-✔ Removed unnecessary or empty columns
-✔ Handled missing values
-✔ Extracted key performance indicators (KPIs)
-✔ Reformatted summary tables into usable structures for analysis
-✔ Prepared metrics for visualization and modeling
+- Removed unnecessary or empty columns
+- Handled missing values
+- Extracted key performance indicators (KPIs)
+- Reformatted summary tables into usable structures for analysis
+- Prepared metrics for visualization and modeling
